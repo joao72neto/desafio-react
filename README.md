@@ -1,7 +1,6 @@
 <h1 align="center" style="font-weight: bold;">Desafio React <img src="https://seojunyoo.gallerycdn.vsassets.io/extensions/seojunyoo/react-component-preview/1.0.5/1645227049614/Microsoft.VisualStudio.Services.Icons.Default" width=40px></h1> 
 
 <p align="center">
- <a href="#context">Contextualização</a> •
  <a href="#layout">Layout</a> •
  <a href="#tech">Tecnologias</a> •
  <a href="#begin">Primeiros Passos</a> •
@@ -89,35 +88,45 @@ npm run dev
 
 <h2 id="func">Funcionamento</h2>
 
-### Fluxo Padrão
+<p>Abaixo é possível perceber que os dados solicitados para os selects foram devidamente implementados</p>
 
-<h4 align="center">Nome</h2>
+<h4 align="left">Nome</h2>
 
-<div align="center">
+<div align="left">
   <p><img src="https://github.com/user-attachments/assets/dcd78c7e-3820-4bd2-b38c-2ae98bb36e98" width="400px"/></p>
 </div>
 
-<h4 align="center">Estado</h2>
+<h4 align="left">Estado</h2>
 
-<div align="center">
+<div align="left">
   <p><img src="https://github.com/user-attachments/assets/53b98a2a-3a33-46e1-82ec-2846f32cbc5d" width="400px"/></p>
 </div>
 
-<h4 align="center">Cidade</h2>
+<h4 align="left">Cidade</h2>
 
-<div align="center">
+
+
+<div align="left">
   <p><img src="https://github.com/user-attachments/assets/ed0b0ba0-fa11-4112-a20c-5dff1c17cd20" width="400px"/></p>
 </div>
 
-<h4 align="center">Selecionando um estado para mostrar as cidades correspondentes</h2>
+<hr>
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/269cc831-baa0-4347-a0e8-4dd298918dbd" width="350px" height="380px">
-    <img src="https://github.com/user-attachments/assets/30ed3196-c3e6-4a72-84d5-82258d1c6d9a" alt="Image Example" width="350px" height="380px">
-    <img src="https://github.com/user-attachments/assets/f80359a5-70eb-4188-8626-42875645f5c3" alt="Image Example" width="350px" height="380px">
-</p>
+### Validações
+
+<p>Para selecionar uma cidade, o Estado precisa ser escolhido anteriormente</p>
+
+<div align="left">
+  <p><img src="https://github.com/user-attachments/assets/269cc831-baa0-4347-a0e8-4dd298918dbd" width="400px"/></p>
+</div>
+
+<p>Para submeter os dados, todos os campos precisam estar preenchidos ou selecionados</p>
+
+<div align="left">
+  <p><img src="https://github.com/user-attachments/assets/9269744c-ba14-49da-bf27-57a58cc78f26" width="400px"/></p>
+</div>
 
 
 ## Conclusão
-Este projeto foi desenvolvido como parte de um desafio técnico para a vaga de estágio, visando demonstrar conhecimentos em desenvolvimento backend com Spring Boot. 
+Este projeto foi desenvolvido como parte de um desafio técnico para a vaga de estágio, visando demonstrar conhecimentos em desenvolvimento front-end com react. 
 
