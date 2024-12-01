@@ -60,7 +60,7 @@ Abaixo estão listadas todas as tecnologias utilizadas para a realização deste
 - Vite
 - JavaScript
 - Node
-- Tailwind
+- Tailwind CSS
 
 <h2 id="begin">🚀 Primeiros Passos</h2>
 
