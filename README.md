@@ -2,6 +2,7 @@
 
 <p align="center">
  <a href="#context">Contextualização</a> •
+ <a href="#layout">Layout</a> •
  <a href="#tech">Tecnologias</a> •
  <a href="#begin">Primeiros Passos</a> •
  <a href="#func">Funcionamento</a> 
@@ -13,6 +14,41 @@
 
 <br>
 
+<p align="center"><strong>O seguinte layout foi requisitado:</strong></p>
+
+<div align="center">
+  <p><img src="https://github.com/user-attachments/assets/97bcc9b7-5611-40c9-a0a6-bf2a5e9208b7"/></p>
+</div>
+
+Os dados disponíveis para seleção deveriam seguir a estrutura abaixo:
+
+**Cursos:**
+
+- Matemática
+- Letras
+- Geografia
+
+**Estados e Cidades**
+
+ - **São Paulo**
+   - Mogi das Cruzes
+   - Suzano
+   - Poá
+   - Guararema
+
+ - **Rio de Janeiro**
+   - Angra dos Reis
+   - Niterói
+   - Itaboraí
+
+ - **Minas Gerais**
+   - Belo Horizonte
+   - Monte Azul
+   - Muzambinho
+
+
+<h2 id="layout">🎨 Layout</h2>
+
 <div align="center">
   <p><img src="https://github.com/user-attachments/assets/458c53cb-7901-44c2-bcbe-209ec6135a94"/></p>
 </div>
@@ -22,10 +58,10 @@
 Abaixo estão listadas todas as tecnologias utilizadas para a realização deste desafio:
 
 - React
+- Vite
 - JavaScript
 - Node
 - Tailwind
-- Vite
 
 <h2 id="begin">🚀 Primeiros Passos</h2>
 
