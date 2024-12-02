@@ -66,7 +66,7 @@ Abaixo estão listadas todas as tecnologias utilizadas para a realização deste
 
 ### Resumo
 
-Para rodar o projeto localmente, basta clonar o repositório, executar o comando `npm run dev` e ele começará a rodar automaticamente no `localhost:3000`
+Para rodar o projeto localmente, basta clonar o repositório, executar o comando `npm install` e logo em seguida o comando `npm run dev` e a aplicação começará a rodar automaticamente no `localhost:3000`
 
 ### Pré-requisito
 
