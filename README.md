@@ -82,6 +82,10 @@ git clone https://github.com/joao72neto/desafio-react.git
 
 ```bash
 cd desafio-react
+npm install
+```
+
+```bash
 npm run dev
 ```
 
